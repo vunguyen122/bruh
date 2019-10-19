@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="657773d1-a8e7-4e9a-b122-bc9602b94fa3" name="Default Changelist" comment="" />
+    <list default="true" id="bb53465b-8720-407d-9313-3b3617eea99e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bruh" />
   </component>
-  <component name="ProjectId" id="1SPMPzp3wEy3Cx6Zjc9mh4AE7fu" />
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
+  <component name="ProjectId" id="1SPLqRB7rcorCJ9rxojuhh1Ctlh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -27,16 +32,30 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="bruh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bruh" />
+      <module name="see if it actually work" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.bruh" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="657773d1-a8e7-4e9a-b122-bc9602b94fa3" name="Default Changelist" comment="" />
-      <created>1571460757158</created>
+      <changelist id="bb53465b-8720-407d-9313-3b3617eea99e" name="Default Changelist" comment="" />
+      <created>1571460474106</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571460757158</updated>
+      <updated>1571460474106</updated>
     </task>
     <servers />
   </component>
@@ -45,7 +64,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
